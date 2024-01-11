@@ -1,0 +1,12 @@
+.headear{
+    font-weight: bolder;
+    font-size: 80px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+.note-text {
+    margin: 10px;
+    color: red;
+    text-align: center;
+}
